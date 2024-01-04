@@ -1,7 +1,6 @@
 # Navigation bar settings (導航欄設置)
 # see https://butterfly.js.org/posts/4aa8abbe/##導航欄設置-Navigation-bar-settings
 # --------------------------------------
-
 nav:
   logo: # image
   display_title: true
@@ -206,8 +205,8 @@ noticeOutdate:
 # --------------------------------------
 footer:
   owner:
-    enable: true
-    since: 2020
+    enable: false
+    since: 2021
   custom_text:
   copyright: true # Copyright of theme and framework
 
@@ -230,8 +229,8 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/xxxxxx
+      text: 关注
+      link: https://github.com/yuedaqing
   card_announcement:
     enable: true
     content: This is my Blog
