@@ -1,3 +1,5 @@
+title: Jenkins——CI\CD部署教程
+---
 # 全局配置
 ## 配置访问仓库凭据
 ### 管理Jenkins![image.png](https://cdn.nlark.com/yuque/0/2024/png/29559801/1723011918864-4670b793-9ebd-488d-a407-98dc9651f28a.png#averageHue=%23f5f2f1&clientId=u9bb056de-ec78-4&from=paste&height=712&id=u2bd4d32b&originHeight=1423&originWidth=681&originalType=binary&ratio=3.5&rotation=0&showTitle=false&size=95946&status=done&style=none&taskId=u4916b08b-c205-40cc-a2b2-df02045451f&title=&width=340.5)
